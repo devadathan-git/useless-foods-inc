@@ -98,3 +98,4 @@ export function toggleFavorite(id: string): SnackAnalysisRecord[] {
     console.error('Failed to toggle favorite:', err);
     return getHistory();
   }
+}
