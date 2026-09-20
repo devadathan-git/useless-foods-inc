@@ -69,17 +69,6 @@ banana ripeness detector
 <img width="939" height="924" alt="history" src="https://github.com/user-attachments/assets/d9c6ee25-94f5-468f-91e4-cbaf32581c47" />
 history tab with every past peel and dip recorded
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
 ## Team Contributions
 - Devadathan M Pillai:  creative,coding, designing
 - Harinand CM : creative, building the project
